@@ -1,6 +1,6 @@
 # The SwiftXML Project
 
-The SwiftXML project provides tools for processing and transforming XML documents. Most of these tools are implemented in the [Swift programming language](https://www.swift.org).
+The SwiftXML project provides a suite of packages implemented in the [Swift programming language](https://www.swift.org) that complement each other to enable the processing and transformation of XML documents.
 
 See the documentation of the [SwiftXML](https://github.com/swiftxml/SwiftXML) repository and the sample application [SwiftXMLExample](https://github.com/swiftxml/SwiftXMLExample).
 
