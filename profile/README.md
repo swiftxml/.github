@@ -10,6 +10,8 @@ The inventor and project lead of SwiftXML is [struktaris](https://struktaris.de)
 
 Most project parts have previously been published on [another GitHub account](https://github.com/stefanspringer1) (their version numbers have been reset to 1.0.0 when initiating them here).
 
+There is a [roadmap](https://github.com/swiftxml/Roadmap)) for things that should or could come for the SwiftXML project.
+
 The following repositories are part of the SwiftXML project:
 
 ## XML
@@ -43,3 +45,7 @@ The following repositories are part of the SwiftXML project:
 ## Example
 
 14. [SwiftXMLExample](https://github.com/swiftxml/SwiftXMLExample): A sample project to show how to use SwiftXML and the Pipeline package.
+
+## Planning
+
+14. [Roadmap](https://github.com/swiftxml/Roadmap): A roadmap of things that should or could come for the SwiftXML project.
