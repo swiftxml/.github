@@ -12,7 +12,7 @@ Most project parts have previously been published on [another GitHub account](ht
 
 There is a [roadmap](https://github.com/swiftxml/Roadmap) for things that should or could come for the SwiftXML project; it also includes a list of known issues.
 
-The following repositories are part of the SwiftXML project (stars are placed where you should look first.):
+The following repositories are part of the SwiftXML project (stars are placed where you should look first):
 
 ## XML
 
