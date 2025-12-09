@@ -12,19 +12,19 @@ Most project parts have previously been published on [another GitHub account](ht
 
 There is a [roadmap](https://github.com/swiftxml/Roadmap) for things that should or could come for the SwiftXML project; it also includes a list of known issues.
 
-The following repositories are part of the SwiftXML project:
+The following repositories are part of the SwiftXML project (stars are placed where you should look first.):
 
 ## XML
 
 1. [SwiftXMLInterfaces](https://github.com/swiftxml/SwiftXMLInterfaces): A libray for some interfaces to be useful in XML projects.
 2. [SwiftXMLParser](https://github.com/swiftxml/SwiftXMLParser): A non-validating parser for XML files encoded in UTF-8.
-3. [SwiftXML](https://github.com/swiftxml/SwiftXML): A library written in Swift to process XML.
+3. ⭐ [SwiftXML](https://github.com/swiftxml/SwiftXML): A library written in Swift to process XML.
 4. [Libxml2Validation](https://github.com/swiftxml/Libxml2Validation): A small C project for the validation of XML documents using libxml2.
 
 ## Pipeline
 
 5. [Localization](https://github.com/swiftxml/Localization): Tools for localization.
-6. [Pipeline](https://github.com/swiftxml/Pipeline): A simple framework for constructing a pipeline to process a single work item.
+6. ⭐ [Pipeline](https://github.com/swiftxml/Pipeline): A simple framework for constructing a pipeline to process a single work item.
 7. [PipelineExtensionsForSwiftXML](https://github.com/swiftxml/PipelineExtensionsForSwiftXML): Extension of the Pipeline package for SwiftXML.
 
 ## Logging
@@ -44,7 +44,7 @@ The following repositories are part of the SwiftXML project:
 
 ## Example
 
-14. [SwiftXMLExample](https://github.com/swiftxml/SwiftXMLExample): A sample project to show how to use SwiftXML and the Pipeline package.
+14. ⭐ [SwiftXMLExample](https://github.com/swiftxml/SwiftXMLExample): A sample project to show how to use SwiftXML and the Pipeline package.
 
 ## Planning
 
